@@ -10,4 +10,6 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.4" />
   </ItemGroup>
 
+  <Import Project="..\Shared\Shared.projitems" Label="Shared" />
+
 </Project>
